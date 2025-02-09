@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NeonSeekBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.NeonSeekBar" parent="Base.Theme.NeonSeekBar" />
+
+
+    <declare-styleable name="CustomSeekBar">
+        <attr name="anchorText" format="string"/>
+        <attr name="valueFrom" format="float"/>
+        <attr name="valueTo" format="float"/>
+        <attr name="value" format="integer"/>
+        <attr name="stepSize" format="float"/>
+        <attr name="inactiveTrackColor" format="color" />
+        <attr name="activeTrackColor" format="color" />
+        <attr name="thumbColor" format="color" />
+        <attr name="labelBackgroundColor" format="color" />
+        <attr name="anchorTextColor" format="color" />
+        <attr name="arrowColor" format="color" />
+        <attr name="shadowColor" format="color" />
+    </declare-styleable>
+
+</resources>
