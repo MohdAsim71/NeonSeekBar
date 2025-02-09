@@ -39,10 +39,16 @@ seekBar.setShadowColor(Color.BLUE) // Change shadow color
 ```
 
 ## Screenshots
-![Screenshot 1](screenshots/demo.png)
+![Screenshot 1]
+![demo](https://github.com/user-attachments/assets/35cd6621-7946-4999-884e-63353510bf90)
+
+
 
 ## Demo Video
-[![Watch the video](screenshots/video_thumbnail.png)](https://github.com/your-username/NeonSeekBar/blob/main/demo_video.mp4)
+[![Watch the video]
+https://github.com/user-attachments/assets/9950cd52-1468-4271-9bda-021d6dbcd296
+
+
 
 ## How to Contribute
 1. Fork the repository.
